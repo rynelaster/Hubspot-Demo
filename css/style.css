@@ -1,0 +1,15 @@
+body {
+	background-color: Orange;
+}
+h1 {
+	color: blue;
+	border: 2px solid powderblue;
+	padding: 30px;
+	text-align: center;
+}
+p {
+	color: red;
+	border: 2px solid green;
+	padding: 30px;
+	text-align: center;
+}
